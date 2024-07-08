@@ -1,0 +1,63 @@
+h1{
+    margin-left: 5%;
+}
+h2{
+padding-left:10%;
+}
+h3{
+padding-left:10%;
+
+}
+h5{
+    text-align: center;
+}
+#button{
+    display: flex;
+    justify-content: center;
+}
+button{
+margin-top: -1%;
+margin-left: 5%;
+margin-right: 5%;
+background-color:transparent;
+border: none;
+}
+button:hover{
+    border: 1px solid black;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+h4{
+text-align: center;
+margin-top:15%;
+border: 1px solid black;
+border-right: none;
+border-left: none;
+border-bottom: none;
+}
+p{
+margin-left:10%;
+margin-right: 20%;
+
+}
+body{
+
+}
+#mn{
+    border: 1px solid black;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+img{
+    float: right;
+    margin: 8% 5% -50% 0;
+    padding: 0;
+    border: 4px double black;
+}
+form{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
